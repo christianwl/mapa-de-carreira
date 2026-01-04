@@ -3,7 +3,7 @@
 } */
 
 :root{
-    --color-bg: #663399
+    --color-bg: #9370DB
 }
 
 .light-theme {
@@ -26,7 +26,7 @@
 
 #btnTheme {
     margin: 0;
-    background-color: #59578E;
+    background-color: var(--color-bg);
     border: none;
 }
 
@@ -36,4 +36,4 @@
 
 .icon-theme{
     font-size: 25px;
-} */
+}
