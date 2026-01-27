@@ -1,0 +1,37 @@
+[
+  {
+    "categoria": "Frontend",
+    "tipo": "progress",
+    "itens": [
+      { "nome": "React", "nivel": "85" },
+      { "nome": "HTML/CSS", "nivel": "65" },
+      { "nome": "JavaScript", "nivel": "90" },
+      { "nome": "Node.js", "nivel": "40" }
+    ]
+  },
+  {
+    "categoria": "Backend",
+    "tipo": "progress",
+    "itens": [
+      { "nome": "Java", "nivel": "80" },
+      { "nome": "MySQL", "nivel": "50" },
+      { "nome": "Python", "nivel": "20" },
+      { "nome": "C#", "nivel": "30" }
+    ]
+  },
+  {
+    "categoria": "Outras",
+    "tipo": "badges",
+    "itens": [
+      "Spring Boot",
+      "API REST",
+      "Git",
+      "Scrum",
+      "IDEs",
+      "Figma",
+      "Trello",
+      "Unity",
+      "Wireframing"
+    ]
+  }
+]

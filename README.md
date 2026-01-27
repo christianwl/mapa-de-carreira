@@ -33,6 +33,10 @@ O site contém:
 
 - **HTML5**
 - **Bootstrap** (para estilização e responsividade)
+- **Web Components (Custom Elements):** Criação de tags HTML personalizadas (ex: `<resume-item>`, `<skills-column>`) para encapsulamento de lógica e estilo.
+- **Data Injection:** Os dados do currículo não estão fixos no HTML; são consumidos via arquivos **JSON** externos.
+- **Arquitetura Escalável:** Uma função de carregamento assíncrona (`fetch`) genérica que permite injetar diferentes fontes de dados em diferentes componentes.
+- **Renderização Dinâmica:** Uso de `.map()` e Template Literals para gerar listas de tamanhos variáveis sem necessidade de frameworks como React ou Vue.
 
 ## Autor
 

@@ -1,0 +1,84 @@
+[
+  {
+    "titulo": "Desenvolvedor Júnior",
+    "descricao": "Desejo desenvolver minhas habilidades em lógica de programação e resolução de problemas, tornando-me cada vez mais apto para desempenhar um papel mais eficiente no trabalho em equipe e melhorar minha comunicação, que é fundamental nesta área. Por isso, pretendo focar meu conhecimento em linguagens que são requisitadas, como Python, Java, JavaScript, C# e React, a fim de encontrar soluções eficazes e aprender a implementar novos métodos na minha forma de trabalhar. Como consequência, espero alcançar a posição de Designer de Games.",
+    "softSkills": [
+      "Resolução de problemas.",
+      "Pensamento lógico.",
+      "Trabalho em equipe.",
+      "Comunicação Efetiva."
+    ],
+    "roadmap": [
+      "Java",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "C#",
+      "IDEs",
+      "API's",
+      "MySQL",
+      "HTML/CSS",
+      "Git"
+    ]
+  },
+  {
+    "titulo": "Designer de Games",
+    "descricao": "Estou empenhado em focar nas habilidades que já possuo com criação de jogos, destrinchando-as para superar dificuldades que tenho na área e desenvolver novos conhecimentos e capacidades, pois a área de games exige a produção de experiências únicas. Isso se deve do incentivo à criatividade, à sicronia com a equipe e à busca constante por maneiras de otimização de trabalho e aplicar código limpo. Esses conhecimentos são essencias para que eu consiga alcançar a posição de Desenvolvedor de Software com uma bagagem sólida de conteúdo.",
+    "softSkills": [
+      "Criatividade.",
+      "Gestão de Tempo.",
+      "Flexibilidade.",
+      "Empatia e Colaboração."
+    ],
+    "roadmap": [
+      "Unity",
+      "UnrealEngine",
+      "UI/UX",
+      "Prototipação",
+      "QA",
+      "C#",
+      "Java",
+      "Game Mechanics",
+      "Game Physics"
+    ]
+  },
+  {
+    "titulo": "Desenvolvedor de Software",
+    "descricao": "À medida que adquiro mais experiência e autoconhecimento, posso atuar efetivamente como uma voz de liderança e dar apoio à minha equipe. Estarei preparado para lidar com tarefas mais complexas e desenvolver softwares completos. No entanto, ainda será necessário o meu crescimento como um profissional capaz de lidar adequadamente com as necessidades dos clientes e desenvolver um pensamento analítico para revisar e encontrar possíveis brechas nos códigos. Estou buscando um conhecimento mais vasto sobre diferentes tecnologias. Assim tornando minha jornada rumo a ser um Engenheiro de software cada vez mais próxima.",
+    "softSkills": [
+      "Aprender a aprender.",
+      "Adaptabilidade.",
+      "Liderança.",
+      "Pensamento Analítico.",
+      "Inteligência emocional."
+    ],
+    "roadmap": [
+      "Frameworks",
+      "Testes de Segurança",
+      "Arquitetura de Software",
+      "Kanban",
+      "Google Cloud",
+      "Python"
+    ]
+  },
+  {
+    "titulo": "Engenheiro de Software",
+    "descricao": "Com total foco em oferecer um serviço de alta qualidade e com base em todo o aprendizado e conteúdo que absorvi, busco comprometimento no desenvolvimento e design de softwares bem estruturados, bem como na manutenção e testes para garantir a confiabilidade dos serviços a serem desenvolvidos. Além disso, estou dedicado a me aplicar em gerenciamento de projetos, com o objetivo de assumir uma posição de liderança e guia na produção de softwares, aplicativos e sistemas.",
+    "softSkills": [
+      "Comunicação.",
+      "Aprendizado contínuo.",
+      "Gestão de projetos.",
+      "Resolução de Problemas.",
+      "Organização."
+    ],
+    "roadmap": [
+      "Teste de Software",
+      "Angular",
+      "MVC",
+      "MongoDB",
+      "Trello",
+      "Metodologias ágeis",
+      "Prototipação"
+    ]
+  }
+]
