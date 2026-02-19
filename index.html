@@ -20,18 +20,17 @@
 	-->
 
   <head>
-    <title>Christian William: Mapa de Carreira</title>
-
     <!-- Meta -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Christian William: Mapa de Carreira</title>
     <meta
       name="description"
       content="Mapa de carreira do author Christian William - christianwl"
     />
     <meta name="author" content="christianwl" />
-    <link rel="shortcut icon" href="favicon.ico" />
 
     <!-- Google Font -->
     <link
@@ -40,10 +39,12 @@
     />
 
     <!-- FontAwesome JS-->
-    <script defer src="assets/fontawesome/js/all.min.js"></script>
+    <script defer src="./src/assets/fontawesome/js/all.min.js"></script>
 
     <!-- Theme CSS -->
-    <link id="theme-style" rel="stylesheet" href="assets/css/bootstrap-5.css" />
+    <link id="theme-style" rel="stylesheet" href="./src/css/bootstrap-5.css" />
+
+    <link rel="shortcut icon" href="./public/favicon.ico" />
   </head>
 
   <body>
@@ -54,7 +55,11 @@
             <div
               class="col-block col-md-auto resume-picture-holder text-center text-md-start"
             >
-              <img class="picture" src="assets/images/profile.jpg" alt="" />
+              <img
+                class="picture"
+                src="./src/assets/images/profile.jpg"
+                alt=""
+              />
             </div>
             <div class="col">
               <div
@@ -205,8 +210,8 @@
         </div>
       </div>
     </article>
-    <script src="./assets/js/ResumeItem.js" type="module" defer></script>
-	<script src="./assets/js/SkillsColumn.js" type="module"></script>
-    <script src="./assets/js/app.js" type="module" defer></script>
+    <script type="module" src="./src/js/components/ResumeItem.js"></script>
+    <script type="module" src="./src/js/components/SkillsColumn.js"></script>
+    <script type="module" src="./src/js/utils/app.js"></script>
   </body>
 </html>

@@ -20,6 +20,6 @@ async function carregarSecao(url, containerId, componenteTag) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    carregarSecao('./assets/json/experiencias.json', 'container-experiencia', 'resume-item');
-    carregarSecao('./assets/json/skills.json', 'skills-container', 'skills-column');
+    carregarSecao('./src/json/experiencias.json', 'container-experiencia', 'resume-item');
+    carregarSecao('./src/json/skills.json', 'skills-container', 'skills-column');
 });
